@@ -1,7 +1,7 @@
 ### Olá, eu sou o David
 
 - 🔭 Estou em busca de oportunidades para entrar no mercado de trabalho
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas
+- 🌱 Formado em Análise e Desenvolvimento de Sistemas
 
   <div>
     <a href="https://github.com/DavidGSJR">
