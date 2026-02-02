@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
- Me chamo David Gonçalves da Silva Junior, tenho 26 anos e sou natural de Brasília. Concluí o curso de técnico em informática em 2022 na ETB e recentemente me formei em Análise e Desenvolvimento de Sistemas na UCB.. Tenho experiência criando aplicações web e mobile, tanto no front-end quanto no back-end. Minha jornada começou com PHP e Laravel, e ao longo do tempo, fui me aprofundando em outras tecnologias como Node.js, React e React Native.
+ Me chamo David Junior, tenho 26 anos e sou natural de Brasília. Concluí o curso de técnico em informática em 2022 na ETB e recentemente me formei em Análise e Desenvolvimento de Sistemas na UCB.. Tenho experiência criando aplicações web e mobile, tanto no front-end quanto no back-end. Minha jornada começou com PHP e Laravel, e ao longo do tempo, fui me aprofundando em outras tecnologias como Node.js, React e React Native.
 
 <div>
   <a href="mailto:davidjunior0805@gmail.com">
